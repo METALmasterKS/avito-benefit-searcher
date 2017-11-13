@@ -1,0 +1,6 @@
+nb-*.xml
+pyvenv.cfg
+venv
+lib*
+include
+bin
